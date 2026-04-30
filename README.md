@@ -31,13 +31,12 @@ which is critical in healthcare applications.
 - Google Colab
 
 ## 📁 Dataset
-- Oral cancer image dataset (mention source if public)
-- Preprocessed using resizing, normalization, and augmentation
+The dataset used in this project consists of oral cancer images.
+⚠️ Due to size and licensing constraints, the dataset is not included in this repository.
+
 
 ## 📌 Future Work
-- Improve accuracy using advanced fine-tuning
-- Add deployment (web/app interface)
-- Extend to multi-modal learning (image + clinical data)
-
-## 🤝 Contributions
-Open to suggestions and improvements!
+- Enhance model performance using advanced fine-tuning and optimization techniques  
+- Extend the system to multi-modal learning by integrating clinical data  
+- Improve interpretability using advanced explainability methods  
+- Prepare the work for potential research publication by evaluating on larger datasets and benchmarking against existing methods  
